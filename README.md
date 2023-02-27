@@ -3,7 +3,7 @@ Code and data for Laforge et al 2023 (Journal of Animal Ecology) - Plasticity an
 
 * Authors:
 	+ Michel P. Laforge
-	+ Maegwin Bonar
+	+ Quinn M. R. Webber
 	+ Eric Vander Wal
 
 This repository includes code and derived data for Laforge et al 2023 (Journal of Animal Ecology) - Plasticity and repeatability in spring migration and parturition dates with implications for annual reproductive success.
